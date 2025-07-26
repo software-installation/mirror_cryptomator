@@ -307,6 +307,10 @@
     "20102784": {
       "tag_name": "1.5.0-alpha1",
       "fully_synced_at": "2025-07-26 08:30:14.455225"
+    },
+    "20665980": {
+      "tag_name": "1.5.0-alpha2",
+      "fully_synced_at": "2025-07-26 08:31:06.960016"
     }
   },
   "assets": {
@@ -3044,6 +3048,44 @@
         "updated_at": "2025-07-26T08:30:14+00:00",
         "synced_at": "2025-07-26 08:30:14.440796"
       }
+    },
+    "20665980": {
+      "buildkit-linux.zip_21592035": {
+        "name": "buildkit-linux.zip",
+        "size": 21592035,
+        "updated_at": "2025-07-26T08:30:28+00:00",
+        "synced_at": "2025-07-26 08:30:28.633709"
+      },
+      "buildkit-mac.zip_21095433": {
+        "name": "buildkit-mac.zip",
+        "size": 21095433,
+        "updated_at": "2025-07-26T08:30:31+00:00",
+        "synced_at": "2025-07-26 08:30:31.604742"
+      },
+      "buildkit-win.zip_22241069": {
+        "name": "buildkit-win.zip",
+        "size": 22241069,
+        "updated_at": "2025-07-26T08:30:34+00:00",
+        "synced_at": "2025-07-26 08:30:35.078603"
+      },
+      "Cryptomator-1.5.0-alpha2-x64.exe_73602808": {
+        "name": "Cryptomator-1.5.0-alpha2-x64.exe",
+        "size": 73602808,
+        "updated_at": "2025-07-26T08:30:55+00:00",
+        "synced_at": "2025-07-26 08:30:55.916637"
+      },
+      "cryptomator-1.5.0-alpha2-x86_64.AppImage_55970808": {
+        "name": "cryptomator-1.5.0-alpha2-x86_64.AppImage",
+        "size": 55970808,
+        "updated_at": "2025-07-26T08:31:01+00:00",
+        "synced_at": "2025-07-26 08:31:01.460119"
+      },
+      "Cryptomator-1.5.0-alpha2.dmg_52036702": {
+        "name": "Cryptomator-1.5.0-alpha2.dmg",
+        "size": 52036702,
+        "updated_at": "2025-07-26T08:31:06+00:00",
+        "synced_at": "2025-07-26 08:31:06.945722"
+      }
     }
   },
   "source_codes": {
@@ -3815,6 +3857,16 @@
       "SourceCode_1.5.0-alpha1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:29:43.072338"
+      }
+    },
+    "1.5.0-alpha2": {
+      "SourceCode_1.5.0-alpha2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:30:22.707679"
+      },
+      "SourceCode_1.5.0-alpha2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:30:24.299370"
       }
     }
   }
