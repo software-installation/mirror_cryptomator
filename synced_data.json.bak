@@ -287,6 +287,10 @@
     "18825676": {
       "tag_name": "1.4.12",
       "fully_synced_at": "2025-07-26 08:27:50.339980"
+    },
+    "19043491": {
+      "tag_name": "1.4.13",
+      "fully_synced_at": "2025-07-26 08:28:11.001185"
     }
   },
   "assets": {
@@ -2890,6 +2894,26 @@
         "updated_at": "2025-07-26T08:28:10+00:00",
         "synced_at": "2025-07-26 08:28:10.996205"
       }
+    },
+    "19231564": {
+      "buildkit-linux.zip_20964379": {
+        "name": "buildkit-linux.zip",
+        "size": 20964379,
+        "updated_at": "2025-07-26T08:28:24+00:00",
+        "synced_at": "2025-07-26 08:28:24.616848"
+      },
+      "cryptomator-1.4.14-x86_64.AppImage_54664184": {
+        "name": "cryptomator-1.4.14-x86_64.AppImage",
+        "size": 54664184,
+        "updated_at": "2025-07-26T08:28:29+00:00",
+        "synced_at": "2025-07-26 08:28:29.717899"
+      },
+      "cryptomator-1.4.14-x86_64.AppImage.asc_821": {
+        "name": "cryptomator-1.4.14-x86_64.AppImage.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:28:31+00:00",
+        "synced_at": "2025-07-26 08:28:31.286318"
+      }
     }
   },
   "source_codes": {
@@ -3621,6 +3645,16 @@
       "SourceCode_1.4.13.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:28:00.699684"
+      }
+    },
+    "1.4.14": {
+      "SourceCode_1.4.14.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:28:19.340706"
+      },
+      "SourceCode_1.4.14.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:28:20.854329"
       }
     }
   }
