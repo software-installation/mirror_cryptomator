@@ -131,6 +131,10 @@
     "4643304": {
       "tag_name": "1.2.2",
       "fully_synced_at": "2025-07-26 08:09:27.374702"
+    },
+    "4788752": {
+      "tag_name": "1.2.3",
+      "fully_synced_at": "2025-07-26 08:10:37.896981"
     }
   },
   "assets": {
@@ -1415,6 +1419,32 @@
         "updated_at": "2025-07-26T08:10:37+00:00",
         "synced_at": "2025-07-26 08:10:37.891854"
       }
+    },
+    "5283856": {
+      "antkit.tar.gz_11702476": {
+        "name": "antkit.tar.gz",
+        "size": 11702476,
+        "updated_at": "2025-07-26T08:10:50+00:00",
+        "synced_at": "2025-07-26 08:10:50.254529"
+      },
+      "Cryptomator-1.2.4.dmg_80406881": {
+        "name": "Cryptomator-1.2.4.dmg",
+        "size": 80406881,
+        "updated_at": "2025-07-26T08:10:56+00:00",
+        "synced_at": "2025-07-26 08:10:57.013510"
+      },
+      "Cryptomator-1.2.4.dmg.asc_821": {
+        "name": "Cryptomator-1.2.4.dmg.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:10:58+00:00",
+        "synced_at": "2025-07-26 08:10:58.455731"
+      },
+      "Cryptomator-1.2.4.jar_12675389": {
+        "name": "Cryptomator-1.2.4.jar",
+        "size": 12675389,
+        "updated_at": "2025-07-26T08:11:00+00:00",
+        "synced_at": "2025-07-26 08:11:00.710913"
+      }
     }
   },
   "source_codes": {
@@ -1756,6 +1786,16 @@
       "SourceCode_1.2.3.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:09:36.106902"
+      }
+    },
+    "1.2.4": {
+      "SourceCode_1.2.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:10:45.092482"
+      },
+      "SourceCode_1.2.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:10:46.848790"
       }
     }
   }
