@@ -519,6 +519,10 @@
     "72847693": {
       "tag_name": "1.6.11",
       "fully_synced_at": "2025-07-26 09:06:11.449342"
+    },
+    "72944462": {
+      "tag_name": "1.6.12",
+      "fully_synced_at": "2025-07-26 09:06:42.408867"
     }
   },
   "assets": {
@@ -6242,6 +6246,50 @@
         "updated_at": "2025-07-26T09:06:11+00:00",
         "synced_at": "2025-07-26 09:06:11.439704"
       }
+    },
+    "72944462": {
+      "cryptomator-1.6.12-x86_64.AppImage_56415424": {
+        "name": "cryptomator-1.6.12-x86_64.AppImage",
+        "size": 56415424,
+        "updated_at": "2025-07-26T09:06:29+00:00",
+        "synced_at": "2025-07-26 09:06:29.363235"
+      },
+      "cryptomator-1.6.12-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.6.12-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:06:30+00:00",
+        "synced_at": "2025-07-26 09:06:30.856480"
+      },
+      "cryptomator-1.6.12-x86_64.AppImage.zsync_193068": {
+        "name": "cryptomator-1.6.12-x86_64.AppImage.zsync",
+        "size": 193068,
+        "updated_at": "2025-07-26T09:06:32+00:00",
+        "synced_at": "2025-07-26 09:06:32.348831"
+      },
+      "cryptomator-1.6.12-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.6.12-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:06:33+00:00",
+        "synced_at": "2025-07-26 09:06:33.784807"
+      },
+      "cryptomator-1.6.12.tar.gz.asc_833": {
+        "name": "cryptomator-1.6.12.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:06:35+00:00",
+        "synced_at": "2025-07-26 09:06:35.235540"
+      },
+      "cryptomator_1.6.12-3912-0ppa1_amd64.deb_58465948": {
+        "name": "cryptomator_1.6.12-3912-0ppa1_amd64.deb",
+        "size": 58465948,
+        "updated_at": "2025-07-26T09:06:40+00:00",
+        "synced_at": "2025-07-26 09:06:40.968089"
+      },
+      "cryptomator_1.6.12-3912-0ppa1_amd64.deb.asc_833": {
+        "name": "cryptomator_1.6.12-3912-0ppa1_amd64.deb.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:06:42+00:00",
+        "synced_at": "2025-07-26 09:06:42.399162"
+      }
     }
   },
   "source_codes": {
@@ -7543,6 +7591,16 @@
       "SourceCode_1.6.11.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:05:25.087661"
+      }
+    },
+    "1.6.12": {
+      "SourceCode_1.6.12.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:06:21.938549"
+      },
+      "SourceCode_1.6.12.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:06:23.931656"
       }
     }
   }
