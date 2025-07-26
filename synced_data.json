@@ -1,0 +1,23 @@
+{
+  "releases": {
+    "743027": {
+      "tag_name": "0.1.0",
+      "fully_synced_at": "2025-07-26 07:51:31.381859"
+    }
+  },
+  "assets": {
+    "743027": {}
+  },
+  "source_codes": {
+    "0.1.0": {
+      "SourceCode_0.1.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 07:51:29.410544"
+      },
+      "SourceCode_0.1.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 07:51:30.933393"
+      }
+    }
+  }
+}
