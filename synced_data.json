@@ -287,6 +287,10 @@
     "18825676": {
       "tag_name": "1.4.12",
       "fully_synced_at": "2025-07-26 08:27:50.339980"
+    },
+    "19043491": {
+      "tag_name": "1.4.13",
+      "fully_synced_at": "2025-07-26 08:28:11.001185"
     }
   },
   "assets": {
@@ -2870,6 +2874,26 @@
         "updated_at": "2025-07-26T08:27:50+00:00",
         "synced_at": "2025-07-26 08:27:50.335096"
       }
+    },
+    "19043491": {
+      "buildkit-win.zip_21651971": {
+        "name": "buildkit-win.zip",
+        "size": 21651971,
+        "updated_at": "2025-07-26T08:28:04+00:00",
+        "synced_at": "2025-07-26 08:28:04.295482"
+      },
+      "Cryptomator-1.4.13-x64.exe_55999696": {
+        "name": "Cryptomator-1.4.13-x64.exe",
+        "size": 55999696,
+        "updated_at": "2025-07-26T08:28:09+00:00",
+        "synced_at": "2025-07-26 08:28:09.566983"
+      },
+      "Cryptomator-1.4.13-x64.exe.asc_821": {
+        "name": "Cryptomator-1.4.13-x64.exe.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:28:10+00:00",
+        "synced_at": "2025-07-26 08:28:10.996205"
+      }
     }
   },
   "source_codes": {
@@ -3591,6 +3615,16 @@
       "SourceCode_1.4.12.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:27:20.745911"
+      }
+    },
+    "1.4.13": {
+      "SourceCode_1.4.13.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:27:58.781806"
+      },
+      "SourceCode_1.4.13.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:28:00.699684"
       }
     }
   }
