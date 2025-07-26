@@ -379,6 +379,10 @@
     "33715464": {
       "tag_name": "1.5.9-beta1",
       "fully_synced_at": "2025-07-26 08:42:11.123226"
+    },
+    "34012087": {
+      "tag_name": "1.5.9-beta2",
+      "fully_synced_at": "2025-07-26 08:42:37.171998"
     }
   },
   "assets": {
@@ -3962,6 +3966,32 @@
         "updated_at": "2025-07-26T08:42:10+00:00",
         "synced_at": "2025-07-26 08:42:11.107881"
       }
+    },
+    "34012087": {
+      "buildkit-linux.zip_25510265": {
+        "name": "buildkit-linux.zip",
+        "size": 25510265,
+        "updated_at": "2025-07-26T08:42:25+00:00",
+        "synced_at": "2025-07-26 08:42:25.658745"
+      },
+      "buildkit-mac.zip_24927227": {
+        "name": "buildkit-mac.zip",
+        "size": 24927227,
+        "updated_at": "2025-07-26T08:42:28+00:00",
+        "synced_at": "2025-07-26 08:42:28.774987"
+      },
+      "buildkit-win.zip_25941036": {
+        "name": "buildkit-win.zip",
+        "size": 25941036,
+        "updated_at": "2025-07-26T08:42:31+00:00",
+        "synced_at": "2025-07-26 08:42:32.100937"
+      },
+      "cryptomator-1.5.9-beta2-x86_64.AppImage_53121000": {
+        "name": "cryptomator-1.5.9-beta2-x86_64.AppImage",
+        "size": 53121000,
+        "updated_at": "2025-07-26T08:42:37+00:00",
+        "synced_at": "2025-07-26 08:42:37.155612"
+      }
     }
   },
   "source_codes": {
@@ -4913,6 +4943,16 @@
       "SourceCode_1.5.9-beta1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:41:46.220399"
+      }
+    },
+    "1.5.9-beta2": {
+      "SourceCode_1.5.9-beta2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:42:20.412661"
+      },
+      "SourceCode_1.5.9-beta2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:42:22.266684"
       }
     }
   }
