@@ -395,6 +395,10 @@
     "35286333": {
       "tag_name": "1.5.11",
       "fully_synced_at": "2025-07-26 08:44:38.967816"
+    },
+    "36974750": {
+      "tag_name": "1.5.12-beta1",
+      "fully_synced_at": "2025-07-26 08:45:15.373019"
     }
   },
   "assets": {
@@ -4172,6 +4176,44 @@
         "updated_at": "2025-07-26T08:44:38+00:00",
         "synced_at": "2025-07-26 08:44:38.961066"
       }
+    },
+    "36974750": {
+      "buildkit-linux.zip_25420318": {
+        "name": "buildkit-linux.zip",
+        "size": 25420318,
+        "updated_at": "2025-07-26T08:44:53+00:00",
+        "synced_at": "2025-07-26 08:44:53.162654"
+      },
+      "buildkit-mac.zip_24837031": {
+        "name": "buildkit-mac.zip",
+        "size": 24837031,
+        "updated_at": "2025-07-26T08:44:56+00:00",
+        "synced_at": "2025-07-26 08:44:56.853721"
+      },
+      "buildkit-win.zip_25912190": {
+        "name": "buildkit-win.zip",
+        "size": 25912190,
+        "updated_at": "2025-07-26T08:44:59+00:00",
+        "synced_at": "2025-07-26 08:44:59.924781"
+      },
+      "Cryptomator-1.5.12-beta1-x64.exe_55044320": {
+        "name": "Cryptomator-1.5.12-beta1-x64.exe",
+        "size": 55044320,
+        "updated_at": "2025-07-26T08:45:04+00:00",
+        "synced_at": "2025-07-26 08:45:05.179237"
+      },
+      "cryptomator-1.5.12-beta1-x86_64.AppImage_53215208": {
+        "name": "cryptomator-1.5.12-beta1-x86_64.AppImage",
+        "size": 53215208,
+        "updated_at": "2025-07-26T08:45:10+00:00",
+        "synced_at": "2025-07-26 08:45:10.431845"
+      },
+      "Cryptomator-1.5.12-beta1.dmg_50956440": {
+        "name": "Cryptomator-1.5.12-beta1.dmg",
+        "size": 50956440,
+        "updated_at": "2025-07-26T08:45:15+00:00",
+        "synced_at": "2025-07-26 08:45:15.356350"
+      }
     }
   },
   "source_codes": {
@@ -5163,6 +5205,16 @@
       "SourceCode_1.5.11.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:44:09.384028"
+      }
+    },
+    "1.5.12-beta1": {
+      "SourceCode_1.5.12-beta1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:44:47.991228"
+      },
+      "SourceCode_1.5.12-beta1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:44:49.501878"
       }
     }
   }
