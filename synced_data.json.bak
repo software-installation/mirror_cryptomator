@@ -499,6 +499,10 @@
     "62204397": {
       "tag_name": "nightly",
       "fully_synced_at": "2025-07-26 09:01:15.422100"
+    },
+    "62603480": {
+      "tag_name": "1.6.7",
+      "fully_synced_at": "2025-07-26 09:02:13.980265"
     }
   },
   "assets": {
@@ -5854,6 +5858,98 @@
         "updated_at": "2025-07-26T09:02:13+00:00",
         "synced_at": "2025-07-26 09:02:13.969774"
       }
+    },
+    "63176083": {
+      "Cryptomator-1.6.8-arm64.dmg_52742931": {
+        "name": "Cryptomator-1.6.8-arm64.dmg",
+        "size": 52742931,
+        "updated_at": "2025-07-26T09:02:32+00:00",
+        "synced_at": "2025-07-26 09:02:33.113056"
+      },
+      "Cryptomator-1.6.8-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.6.8-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:02:34+00:00",
+        "synced_at": "2025-07-26 09:02:34.526601"
+      },
+      "Cryptomator-1.6.8-x64.exe_54448216": {
+        "name": "Cryptomator-1.6.8-x64.exe",
+        "size": 54448216,
+        "updated_at": "2025-07-26T09:02:39+00:00",
+        "synced_at": "2025-07-26 09:02:39.791653"
+      },
+      "Cryptomator-1.6.8-x64.exe.asc_833": {
+        "name": "Cryptomator-1.6.8-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:02:41+00:00",
+        "synced_at": "2025-07-26 09:02:41.288284"
+      },
+      "Cryptomator-1.6.8-x64.msi_53886976": {
+        "name": "Cryptomator-1.6.8-x64.msi",
+        "size": 53886976,
+        "updated_at": "2025-07-26T09:02:46+00:00",
+        "synced_at": "2025-07-26 09:02:46.430233"
+      },
+      "Cryptomator-1.6.8-x64.msi.asc_833": {
+        "name": "Cryptomator-1.6.8-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:02:47+00:00",
+        "synced_at": "2025-07-26 09:02:47.897175"
+      },
+      "cryptomator-1.6.8-x86_64.AppImage_55940288": {
+        "name": "cryptomator-1.6.8-x86_64.AppImage",
+        "size": 55940288,
+        "updated_at": "2025-07-26T09:02:53+00:00",
+        "synced_at": "2025-07-26 09:02:53.600939"
+      },
+      "cryptomator-1.6.8-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.6.8-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:02:54+00:00",
+        "synced_at": "2025-07-26 09:02:55.062488"
+      },
+      "cryptomator-1.6.8-x86_64.AppImage.zsync_191442": {
+        "name": "cryptomator-1.6.8-x86_64.AppImage.zsync",
+        "size": 191442,
+        "updated_at": "2025-07-26T09:02:56+00:00",
+        "synced_at": "2025-07-26 09:02:56.537684"
+      },
+      "cryptomator-1.6.8-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.6.8-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:02:57+00:00",
+        "synced_at": "2025-07-26 09:02:57.955247"
+      },
+      "Cryptomator-1.6.8.dmg_53544108": {
+        "name": "Cryptomator-1.6.8.dmg",
+        "size": 53544108,
+        "updated_at": "2025-07-26T09:03:03+00:00",
+        "synced_at": "2025-07-26 09:03:03.886516"
+      },
+      "Cryptomator-1.6.8.dmg.asc_833": {
+        "name": "Cryptomator-1.6.8.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:03:05+00:00",
+        "synced_at": "2025-07-26 09:03:05.347383"
+      },
+      "cryptomator-1.6.8.tar.gz.asc_833": {
+        "name": "cryptomator-1.6.8.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:03:06+00:00",
+        "synced_at": "2025-07-26 09:03:06.798716"
+      },
+      "cryptomator_1.6.8-3549-0ppa1_amd64.deb_57450032": {
+        "name": "cryptomator_1.6.8-3549-0ppa1_amd64.deb",
+        "size": 57450032,
+        "updated_at": "2025-07-26T09:03:12+00:00",
+        "synced_at": "2025-07-26 09:03:12.225659"
+      },
+      "cryptomator_1.6.8-3549-0ppa1_amd64.deb.asc_833": {
+        "name": "cryptomator_1.6.8-3549-0ppa1_amd64.deb.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:03:13+00:00",
+        "synced_at": "2025-07-26 09:03:13.688717"
+      }
     }
   },
   "source_codes": {
@@ -7115,6 +7211,16 @@
       "SourceCode_1.6.7.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:01:27.322104"
+      }
+    },
+    "1.6.8": {
+      "SourceCode_1.6.8.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:02:24.508189"
+      },
+      "SourceCode_1.6.8.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:02:26.550460"
       }
     }
   }
