@@ -659,6 +659,10 @@
     "131728217": {
       "tag_name": "1.11.1-beta1",
       "fully_synced_at": "2025-07-26 09:38:24.371680"
+    },
+    "132638696": {
+      "tag_name": "1.11.1",
+      "fully_synced_at": "2025-07-26 09:39:32.106643"
     }
   },
   "assets": {
@@ -9568,6 +9572,110 @@
         "updated_at": "2025-07-26T09:39:31+00:00",
         "synced_at": "2025-07-26 09:39:32.092097"
       }
+    },
+    "140092905": {
+      "cryptomator-1.12.0-aarch64.AppImage_56820928": {
+        "name": "cryptomator-1.12.0-aarch64.AppImage",
+        "size": 56820928,
+        "updated_at": "2025-07-26T09:39:52+00:00",
+        "synced_at": "2025-07-26 09:39:52.622244"
+      },
+      "cryptomator-1.12.0-aarch64.AppImage.asc_833": {
+        "name": "cryptomator-1.12.0-aarch64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:39:54+00:00",
+        "synced_at": "2025-07-26 09:39:54.195492"
+      },
+      "cryptomator-1.12.0-aarch64.AppImage.zsync_194456": {
+        "name": "cryptomator-1.12.0-aarch64.AppImage.zsync",
+        "size": 194456,
+        "updated_at": "2025-07-26T09:39:55+00:00",
+        "synced_at": "2025-07-26 09:39:55.679172"
+      },
+      "cryptomator-1.12.0-aarch64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.12.0-aarch64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:39:56+00:00",
+        "synced_at": "2025-07-26 09:39:57.089984"
+      },
+      "Cryptomator-1.12.0-arm64.dmg_53976843": {
+        "name": "Cryptomator-1.12.0-arm64.dmg",
+        "size": 53976843,
+        "updated_at": "2025-07-26T09:40:02+00:00",
+        "synced_at": "2025-07-26 09:40:02.879414"
+      },
+      "Cryptomator-1.12.0-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.12.0-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:40:04+00:00",
+        "synced_at": "2025-07-26 09:40:04.344309"
+      },
+      "Cryptomator-1.12.0-x64.dmg_55179691": {
+        "name": "Cryptomator-1.12.0-x64.dmg",
+        "size": 55179691,
+        "updated_at": "2025-07-26T09:40:09+00:00",
+        "synced_at": "2025-07-26 09:40:09.530922"
+      },
+      "Cryptomator-1.12.0-x64.dmg.asc_833": {
+        "name": "Cryptomator-1.12.0-x64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:40:10+00:00",
+        "synced_at": "2025-07-26 09:40:10.998198"
+      },
+      "Cryptomator-1.12.0-x64.exe_56120296": {
+        "name": "Cryptomator-1.12.0-x64.exe",
+        "size": 56120296,
+        "updated_at": "2025-07-26T09:40:16+00:00",
+        "synced_at": "2025-07-26 09:40:16.123428"
+      },
+      "Cryptomator-1.12.0-x64.exe.asc_833": {
+        "name": "Cryptomator-1.12.0-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:40:17+00:00",
+        "synced_at": "2025-07-26 09:40:17.599024"
+      },
+      "Cryptomator-1.12.0-x64.msi_55435264": {
+        "name": "Cryptomator-1.12.0-x64.msi",
+        "size": 55435264,
+        "updated_at": "2025-07-26T09:40:22+00:00",
+        "synced_at": "2025-07-26 09:40:22.582799"
+      },
+      "Cryptomator-1.12.0-x64.msi.asc_833": {
+        "name": "Cryptomator-1.12.0-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:40:23+00:00",
+        "synced_at": "2025-07-26 09:40:24.066185"
+      },
+      "cryptomator-1.12.0-x86_64.AppImage_59614400": {
+        "name": "cryptomator-1.12.0-x86_64.AppImage",
+        "size": 59614400,
+        "updated_at": "2025-07-26T09:40:29+00:00",
+        "synced_at": "2025-07-26 09:40:29.584683"
+      },
+      "cryptomator-1.12.0-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.12.0-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:40:30+00:00",
+        "synced_at": "2025-07-26 09:40:31.091027"
+      },
+      "cryptomator-1.12.0-x86_64.AppImage.zsync_204002": {
+        "name": "cryptomator-1.12.0-x86_64.AppImage.zsync",
+        "size": 204002,
+        "updated_at": "2025-07-26T09:40:32+00:00",
+        "synced_at": "2025-07-26 09:40:32.639554"
+      },
+      "cryptomator-1.12.0-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.12.0-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:40:33+00:00",
+        "synced_at": "2025-07-26 09:40:34.117740"
+      },
+      "cryptomator-1.12.0.tar.gz.asc_833": {
+        "name": "cryptomator-1.12.0.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:40:35+00:00",
+        "synced_at": "2025-07-26 09:40:35.524768"
+      }
     }
   },
   "source_codes": {
@@ -11229,6 +11337,16 @@
       "SourceCode_1.11.1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:38:35.917603"
+      }
+    },
+    "1.12.0": {
+      "SourceCode_1.12.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:39:44.446810"
+      },
+      "SourceCode_1.12.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:39:46.768382"
       }
     }
   }
