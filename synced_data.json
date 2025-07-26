@@ -539,6 +539,10 @@
     "83522443": {
       "tag_name": "1.7.0-alpha1",
       "fully_synced_at": "2025-07-26 09:09:52.230056"
+    },
+    "85158940": {
+      "tag_name": "1.6.16",
+      "fully_synced_at": "2025-07-26 09:10:48.615424"
     }
   },
   "assets": {
@@ -6590,6 +6594,98 @@
         "updated_at": "2025-07-26T09:09:52+00:00",
         "synced_at": "2025-07-26 09:09:52.219805"
       }
+    },
+    "85158940": {
+      "Cryptomator-1.6.16-arm64.dmg_50699641": {
+        "name": "Cryptomator-1.6.16-arm64.dmg",
+        "size": 50699641,
+        "updated_at": "2025-07-26T09:10:11+00:00",
+        "synced_at": "2025-07-26 09:10:11.573772"
+      },
+      "Cryptomator-1.6.16-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.6.16-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:10:12+00:00",
+        "synced_at": "2025-07-26 09:10:13.007574"
+      },
+      "Cryptomator-1.6.16-x64.dmg_51699794": {
+        "name": "Cryptomator-1.6.16-x64.dmg",
+        "size": 51699794,
+        "updated_at": "2025-07-26T09:10:17+00:00",
+        "synced_at": "2025-07-26 09:10:17.374320"
+      },
+      "Cryptomator-1.6.16-x64.dmg.asc_833": {
+        "name": "Cryptomator-1.6.16-x64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:10:18+00:00",
+        "synced_at": "2025-07-26 09:10:18.820451"
+      },
+      "Cryptomator-1.6.16-x64.exe_52606920": {
+        "name": "Cryptomator-1.6.16-x64.exe",
+        "size": 52606920,
+        "updated_at": "2025-07-26T09:10:23+00:00",
+        "synced_at": "2025-07-26 09:10:23.549420"
+      },
+      "Cryptomator-1.6.16-x64.exe.asc_833": {
+        "name": "Cryptomator-1.6.16-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:10:24+00:00",
+        "synced_at": "2025-07-26 09:10:25.016251"
+      },
+      "Cryptomator-1.6.16-x64.msi_51355648": {
+        "name": "Cryptomator-1.6.16-x64.msi",
+        "size": 51355648,
+        "updated_at": "2025-07-26T09:10:29+00:00",
+        "synced_at": "2025-07-26 09:10:29.983195"
+      },
+      "Cryptomator-1.6.16-x64.msi.asc_833": {
+        "name": "Cryptomator-1.6.16-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:10:31+00:00",
+        "synced_at": "2025-07-26 09:10:31.472247"
+      },
+      "cryptomator-1.6.16-x86_64.AppImage_53777600": {
+        "name": "cryptomator-1.6.16-x86_64.AppImage",
+        "size": 53777600,
+        "updated_at": "2025-07-26T09:10:36+00:00",
+        "synced_at": "2025-07-26 09:10:36.326418"
+      },
+      "cryptomator-1.6.16-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.6.16-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:10:37+00:00",
+        "synced_at": "2025-07-26 09:10:37.770223"
+      },
+      "cryptomator-1.6.16-x86_64.AppImage.zsync_184052": {
+        "name": "cryptomator-1.6.16-x86_64.AppImage.zsync",
+        "size": 184052,
+        "updated_at": "2025-07-26T09:10:39+00:00",
+        "synced_at": "2025-07-26 09:10:39.309359"
+      },
+      "cryptomator-1.6.16-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.6.16-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:10:40+00:00",
+        "synced_at": "2025-07-26 09:10:40.763653"
+      },
+      "cryptomator-1.6.16.tar.gz.asc_833": {
+        "name": "cryptomator-1.6.16.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:10:42+00:00",
+        "synced_at": "2025-07-26 09:10:42.204628"
+      },
+      "cryptomator_1.6.16-4118-0ppa1_amd64.deb_58246124": {
+        "name": "cryptomator_1.6.16-4118-0ppa1_amd64.deb",
+        "size": 58246124,
+        "updated_at": "2025-07-26T09:10:47+00:00",
+        "synced_at": "2025-07-26 09:10:47.205407"
+      },
+      "cryptomator_1.6.16-4118-0ppa1_amd64.deb.asc_833": {
+        "name": "cryptomator_1.6.16-4118-0ppa1_amd64.deb.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:10:48+00:00",
+        "synced_at": "2025-07-26 09:10:48.605066"
+      }
     }
   },
   "source_codes": {
@@ -7941,6 +8037,16 @@
       "SourceCode_1.7.0-alpha1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:09:19.550374"
+      }
+    },
+    "1.6.16": {
+      "SourceCode_1.6.16.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:10:02.842356"
+      },
+      "SourceCode_1.6.16.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:10:04.909672"
       }
     }
   }
