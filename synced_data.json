@@ -311,6 +311,10 @@
     "20665980": {
       "tag_name": "1.5.0-alpha2",
       "fully_synced_at": "2025-07-26 08:31:06.960016"
+    },
+    "21104998": {
+      "tag_name": "1.4.17",
+      "fully_synced_at": "2025-07-26 08:31:33.006360"
     }
   },
   "assets": {
@@ -3086,6 +3090,38 @@
         "updated_at": "2025-07-26T08:31:06+00:00",
         "synced_at": "2025-07-26 08:31:06.945722"
       }
+    },
+    "21104998": {
+      "buildkit-linux.zip_20978062": {
+        "name": "buildkit-linux.zip",
+        "size": 20978062,
+        "updated_at": "2025-07-26T08:31:20+00:00",
+        "synced_at": "2025-07-26 08:31:20.961633"
+      },
+      "buildkit-mac.zip_20481001": {
+        "name": "buildkit-mac.zip",
+        "size": 20481001,
+        "updated_at": "2025-07-26T08:31:23+00:00",
+        "synced_at": "2025-07-26 08:31:23.609616"
+      },
+      "buildkit-win.zip_21665922": {
+        "name": "buildkit-win.zip",
+        "size": 21665922,
+        "updated_at": "2025-07-26T08:31:26+00:00",
+        "synced_at": "2025-07-26 08:31:26.420927"
+      },
+      "Cryptomator-1.4.17.dmg_50333021": {
+        "name": "Cryptomator-1.4.17.dmg",
+        "size": 50333021,
+        "updated_at": "2025-07-26T08:31:31+00:00",
+        "synced_at": "2025-07-26 08:31:31.491830"
+      },
+      "Cryptomator-1.4.17.dmg.asc_821": {
+        "name": "Cryptomator-1.4.17.dmg.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:31:32+00:00",
+        "synced_at": "2025-07-26 08:31:33.001130"
+      }
     }
   },
   "source_codes": {
@@ -3867,6 +3903,16 @@
       "SourceCode_1.5.0-alpha2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:30:24.299370"
+      }
+    },
+    "1.4.17": {
+      "SourceCode_1.4.17.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:31:15.870599"
+      },
+      "SourceCode_1.4.17.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:31:17.412812"
       }
     }
   }
