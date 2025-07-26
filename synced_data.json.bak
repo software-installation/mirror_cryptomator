@@ -43,6 +43,10 @@
     "1356985": {
       "tag_name": "0.7.1",
       "fully_synced_at": "2025-07-26 07:53:19.192566"
+    },
+    "1381182": {
+      "tag_name": "0.7.2",
+      "fully_synced_at": "2025-07-26 07:53:36.236495"
     }
   },
   "assets": {
@@ -118,6 +122,38 @@
         "size": 11758746,
         "updated_at": "2025-07-26T07:53:36+00:00",
         "synced_at": "2025-07-26 07:53:36.233482"
+      }
+    },
+    "1627725": {
+      "cryptomator-0.8.0-amd64.deb_55671086": {
+        "name": "cryptomator-0.8.0-amd64.deb",
+        "size": 55671086,
+        "updated_at": "2025-07-26T07:53:49+00:00",
+        "synced_at": "2025-07-26 07:53:49.987185"
+      },
+      "Cryptomator-0.8.0-x64.exe_51459000": {
+        "name": "Cryptomator-0.8.0-x64.exe",
+        "size": 51459000,
+        "updated_at": "2025-07-26T07:53:55+00:00",
+        "synced_at": "2025-07-26 07:53:55.795025"
+      },
+      "Cryptomator-0.8.0-x86.exe_50419272": {
+        "name": "Cryptomator-0.8.0-x86.exe",
+        "size": 50419272,
+        "updated_at": "2025-07-26T07:54:00+00:00",
+        "synced_at": "2025-07-26 07:54:00.753982"
+      },
+      "Cryptomator-0.8.0.dmg_77912367": {
+        "name": "Cryptomator-0.8.0.dmg",
+        "size": 77912367,
+        "updated_at": "2025-07-26T07:54:07+00:00",
+        "synced_at": "2025-07-26 07:54:07.644324"
+      },
+      "Cryptomator-0.8.0.jar_11876007": {
+        "name": "Cryptomator-0.8.0.jar",
+        "size": 11876007,
+        "updated_at": "2025-07-26T07:54:10+00:00",
+        "synced_at": "2025-07-26 07:54:10.404618"
       }
     }
   },
@@ -240,6 +276,16 @@
       "SourceCode_0.7.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 07:53:27.435663"
+      }
+    },
+    "0.8.0": {
+      "SourceCode_0.8.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 07:53:42.657819"
+      },
+      "SourceCode_0.8.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 07:53:44.214123"
       }
     }
   }
