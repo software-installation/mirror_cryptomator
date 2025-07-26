@@ -191,6 +191,10 @@
     "8654681": {
       "tag_name": "1.3.2",
       "fully_synced_at": "2025-07-26 08:17:25.083760"
+    },
+    "8675676": {
+      "tag_name": "1.3.3",
+      "fully_synced_at": "2025-07-26 08:17:51.816886"
     }
   },
   "assets": {
@@ -1983,6 +1987,44 @@
         "updated_at": "2025-07-26T08:17:24+00:00",
         "synced_at": "2025-07-26 08:17:25.077296"
       }
+    },
+    "8675676": {
+      "antkit.tar.gz_13829120": {
+        "name": "antkit.tar.gz",
+        "size": 13829120,
+        "updated_at": "2025-07-26T08:17:37+00:00",
+        "synced_at": "2025-07-26 08:17:37.420846"
+      },
+      "Cryptomator-1.3.3-x64.exe_42562040": {
+        "name": "Cryptomator-1.3.3-x64.exe",
+        "size": 42562040,
+        "updated_at": "2025-07-26T08:17:41+00:00",
+        "synced_at": "2025-07-26 08:17:41.827324"
+      },
+      "Cryptomator-1.3.3-x64.exe.asc_821": {
+        "name": "Cryptomator-1.3.3-x64.exe.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:17:43+00:00",
+        "synced_at": "2025-07-26 08:17:43.249878"
+      },
+      "Cryptomator-1.3.3-x86.exe_45902712": {
+        "name": "Cryptomator-1.3.3-x86.exe",
+        "size": 45902712,
+        "updated_at": "2025-07-26T08:17:47+00:00",
+        "synced_at": "2025-07-26 08:17:47.642996"
+      },
+      "Cryptomator-1.3.3-x86.exe.asc_821": {
+        "name": "Cryptomator-1.3.3-x86.exe.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:17:48+00:00",
+        "synced_at": "2025-07-26 08:17:49.104927"
+      },
+      "Cryptomator-1.3.3.jar_15173640": {
+        "name": "Cryptomator-1.3.3.jar",
+        "size": 15173640,
+        "updated_at": "2025-07-26T08:17:51+00:00",
+        "synced_at": "2025-07-26 08:17:51.810674"
+      }
     }
   },
   "source_codes": {
@@ -2464,6 +2506,16 @@
       "SourceCode_1.3.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:16:22.574940"
+      }
+    },
+    "1.3.3": {
+      "SourceCode_1.3.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:17:32.551859"
+      },
+      "SourceCode_1.3.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:17:34.149233"
       }
     }
   }
