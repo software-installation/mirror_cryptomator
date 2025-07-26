@@ -575,6 +575,10 @@
     "94067875": {
       "tag_name": "1.7.0",
       "fully_synced_at": "2025-07-26 09:18:13.404289"
+    },
+    "94433353": {
+      "tag_name": "1.7.1",
+      "fully_synced_at": "2025-07-26 09:19:12.646785"
     }
   },
   "assets": {
@@ -7534,6 +7538,98 @@
         "updated_at": "2025-07-26T09:19:12+00:00",
         "synced_at": "2025-07-26 09:19:12.635057"
       }
+    },
+    "94757198": {
+      "Cryptomator-1.7.2-arm64.dmg_48191258": {
+        "name": "Cryptomator-1.7.2-arm64.dmg",
+        "size": 48191258,
+        "updated_at": "2025-07-26T09:19:30+00:00",
+        "synced_at": "2025-07-26 09:19:30.429195"
+      },
+      "Cryptomator-1.7.2-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.7.2-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:19:31+00:00",
+        "synced_at": "2025-07-26 09:19:31.924318"
+      },
+      "Cryptomator-1.7.2-x64.dmg_49187485": {
+        "name": "Cryptomator-1.7.2-x64.dmg",
+        "size": 49187485,
+        "updated_at": "2025-07-26T09:19:37+00:00",
+        "synced_at": "2025-07-26 09:19:37.497144"
+      },
+      "Cryptomator-1.7.2-x64.dmg.asc_833": {
+        "name": "Cryptomator-1.7.2-x64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:19:38+00:00",
+        "synced_at": "2025-07-26 09:19:38.983567"
+      },
+      "Cryptomator-1.7.2-x64.exe_50078632": {
+        "name": "Cryptomator-1.7.2-x64.exe",
+        "size": 50078632,
+        "updated_at": "2025-07-26T09:19:43+00:00",
+        "synced_at": "2025-07-26 09:19:44.098516"
+      },
+      "Cryptomator-1.7.2-x64.exe.asc_833": {
+        "name": "Cryptomator-1.7.2-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:19:45+00:00",
+        "synced_at": "2025-07-26 09:19:45.528052"
+      },
+      "Cryptomator-1.7.2-x64.msi_48840704": {
+        "name": "Cryptomator-1.7.2-x64.msi",
+        "size": 48840704,
+        "updated_at": "2025-07-26T09:19:50+00:00",
+        "synced_at": "2025-07-26 09:19:50.486123"
+      },
+      "Cryptomator-1.7.2-x64.msi.asc_833": {
+        "name": "Cryptomator-1.7.2-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:19:51+00:00",
+        "synced_at": "2025-07-26 09:19:51.905068"
+      },
+      "cryptomator-1.7.2-x86_64.AppImage_50947264": {
+        "name": "cryptomator-1.7.2-x86_64.AppImage",
+        "size": 50947264,
+        "updated_at": "2025-07-26T09:19:56+00:00",
+        "synced_at": "2025-07-26 09:19:57.071604"
+      },
+      "cryptomator-1.7.2-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.7.2-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:19:58+00:00",
+        "synced_at": "2025-07-26 09:19:58.639499"
+      },
+      "cryptomator-1.7.2-x86_64.AppImage.zsync_174376": {
+        "name": "cryptomator-1.7.2-x86_64.AppImage.zsync",
+        "size": 174376,
+        "updated_at": "2025-07-26T09:19:59+00:00",
+        "synced_at": "2025-07-26 09:20:00.068201"
+      },
+      "cryptomator-1.7.2-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.7.2-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:20:01+00:00",
+        "synced_at": "2025-07-26 09:20:01.495229"
+      },
+      "cryptomator-1.7.2.tar.gz.asc_833": {
+        "name": "cryptomator-1.7.2.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:20:02+00:00",
+        "synced_at": "2025-07-26 09:20:02.955467"
+      },
+      "cryptomator_1.7.2-0ppa1_amd64.deb_55656244": {
+        "name": "cryptomator_1.7.2-0ppa1_amd64.deb",
+        "size": 55656244,
+        "updated_at": "2025-07-26T09:20:08+00:00",
+        "synced_at": "2025-07-26 09:20:08.827902"
+      },
+      "cryptomator_1.7.2-0ppa1_amd64.deb.asc_833": {
+        "name": "cryptomator_1.7.2-0ppa1_amd64.deb.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:20:10+00:00",
+        "synced_at": "2025-07-26 09:20:10.343226"
+      }
     }
   },
   "source_codes": {
@@ -8985,6 +9081,16 @@
       "SourceCode_1.7.1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:18:25.949302"
+      }
+    },
+    "1.7.2": {
+      "SourceCode_1.7.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:19:22.997705"
+      },
+      "SourceCode_1.7.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:19:25.126531"
       }
     }
   }
