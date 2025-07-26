@@ -599,6 +599,10 @@
     "100779606": {
       "tag_name": "1.8.0",
       "fully_synced_at": "2025-07-26 09:23:58.801207"
+    },
+    "104420954": {
+      "tag_name": "1.9.0-beta1",
+      "fully_synced_at": "2025-07-26 09:24:56.657041"
     }
   },
   "assets": {
@@ -8110,6 +8114,98 @@
         "updated_at": "2025-07-26T09:24:56+00:00",
         "synced_at": "2025-07-26 09:24:56.644763"
       }
+    },
+    "105331318": {
+      "Cryptomator-1.9.0-arm64.dmg_48399209": {
+        "name": "Cryptomator-1.9.0-arm64.dmg",
+        "size": 48399209,
+        "updated_at": "2025-07-26T09:25:13+00:00",
+        "synced_at": "2025-07-26 09:25:14.119905"
+      },
+      "Cryptomator-1.9.0-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.9.0-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:25:15+00:00",
+        "synced_at": "2025-07-26 09:25:15.584931"
+      },
+      "Cryptomator-1.9.0-x64.dmg_49642322": {
+        "name": "Cryptomator-1.9.0-x64.dmg",
+        "size": 49642322,
+        "updated_at": "2025-07-26T09:25:20+00:00",
+        "synced_at": "2025-07-26 09:25:20.879446"
+      },
+      "Cryptomator-1.9.0-x64.dmg.asc_833": {
+        "name": "Cryptomator-1.9.0-x64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:25:22+00:00",
+        "synced_at": "2025-07-26 09:25:22.323614"
+      },
+      "Cryptomator-1.9.0-x64.exe_51505472": {
+        "name": "Cryptomator-1.9.0-x64.exe",
+        "size": 51505472,
+        "updated_at": "2025-07-26T09:25:26+00:00",
+        "synced_at": "2025-07-26 09:25:27.140589"
+      },
+      "Cryptomator-1.9.0-x64.exe.asc_833": {
+        "name": "Cryptomator-1.9.0-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:25:28+00:00",
+        "synced_at": "2025-07-26 09:25:28.560691"
+      },
+      "Cryptomator-1.9.0-x64.msi_50446336": {
+        "name": "Cryptomator-1.9.0-x64.msi",
+        "size": 50446336,
+        "updated_at": "2025-07-26T09:25:33+00:00",
+        "synced_at": "2025-07-26 09:25:33.980459"
+      },
+      "Cryptomator-1.9.0-x64.msi.asc_833": {
+        "name": "Cryptomator-1.9.0-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:25:35+00:00",
+        "synced_at": "2025-07-26 09:25:35.404066"
+      },
+      "cryptomator-1.9.0-x86_64.AppImage_51430592": {
+        "name": "cryptomator-1.9.0-x86_64.AppImage",
+        "size": 51430592,
+        "updated_at": "2025-07-26T09:25:40+00:00",
+        "synced_at": "2025-07-26 09:25:40.519178"
+      },
+      "cryptomator-1.9.0-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.9.0-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:25:41+00:00",
+        "synced_at": "2025-07-26 09:25:42.094186"
+      },
+      "cryptomator-1.9.0-x86_64.AppImage.zsync_176028": {
+        "name": "cryptomator-1.9.0-x86_64.AppImage.zsync",
+        "size": 176028,
+        "updated_at": "2025-07-26T09:25:43+00:00",
+        "synced_at": "2025-07-26 09:25:43.541358"
+      },
+      "cryptomator-1.9.0-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.9.0-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:25:44+00:00",
+        "synced_at": "2025-07-26 09:25:45.015841"
+      },
+      "cryptomator-1.9.0.tar.gz.asc_833": {
+        "name": "cryptomator-1.9.0.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:25:46+00:00",
+        "synced_at": "2025-07-26 09:25:46.489244"
+      },
+      "cryptomator_1.9.0-0ppa1_amd64.deb_56179756": {
+        "name": "cryptomator_1.9.0-0ppa1_amd64.deb",
+        "size": 56179756,
+        "updated_at": "2025-07-26T09:25:52+00:00",
+        "synced_at": "2025-07-26 09:25:52.267740"
+      },
+      "cryptomator_1.9.0-0ppa1_amd64.deb.asc_833": {
+        "name": "cryptomator_1.9.0-0ppa1_amd64.deb.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:25:53+00:00",
+        "synced_at": "2025-07-26 09:25:53.699191"
+      }
     }
   },
   "source_codes": {
@@ -9621,6 +9717,16 @@
       "SourceCode_1.9.0-beta1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:24:12.643655"
+      }
+    },
+    "1.9.0": {
+      "SourceCode_1.9.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:25:06.205551"
+      },
+      "SourceCode_1.9.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:25:08.278641"
       }
     }
   }
