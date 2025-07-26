@@ -375,6 +375,10 @@
     "30328100": {
       "tag_name": "1.5.8",
       "fully_synced_at": "2025-07-26 08:41:35.481408"
+    },
+    "33715464": {
+      "tag_name": "1.5.9-beta1",
+      "fully_synced_at": "2025-07-26 08:42:11.123226"
     }
   },
   "assets": {
@@ -3920,6 +3924,44 @@
         "updated_at": "2025-07-26T08:41:35+00:00",
         "synced_at": "2025-07-26 08:41:35.474942"
       }
+    },
+    "33715464": {
+      "buildkit-linux.zip_25502459": {
+        "name": "buildkit-linux.zip",
+        "size": 25502459,
+        "updated_at": "2025-07-26T08:41:49+00:00",
+        "synced_at": "2025-07-26 08:41:49.775158"
+      },
+      "buildkit-mac.zip_24919421": {
+        "name": "buildkit-mac.zip",
+        "size": 24919421,
+        "updated_at": "2025-07-26T08:41:52+00:00",
+        "synced_at": "2025-07-26 08:41:53.099193"
+      },
+      "buildkit-win.zip_25933230": {
+        "name": "buildkit-win.zip",
+        "size": 25933230,
+        "updated_at": "2025-07-26T08:41:56+00:00",
+        "synced_at": "2025-07-26 08:41:56.170797"
+      },
+      "Cryptomator-1.5.9-beta1-x64.exe_55164872": {
+        "name": "Cryptomator-1.5.9-beta1-x64.exe",
+        "size": 55164872,
+        "updated_at": "2025-07-26T08:42:01+00:00",
+        "synced_at": "2025-07-26 08:42:01.475274"
+      },
+      "cryptomator-1.5.9-beta1-x86_64.AppImage_53673960": {
+        "name": "cryptomator-1.5.9-beta1-x86_64.AppImage",
+        "size": 53673960,
+        "updated_at": "2025-07-26T08:42:06+00:00",
+        "synced_at": "2025-07-26 08:42:06.439689"
+      },
+      "Cryptomator-1.5.9-beta1.dmg_49812537": {
+        "name": "Cryptomator-1.5.9-beta1.dmg",
+        "size": 49812537,
+        "updated_at": "2025-07-26T08:42:10+00:00",
+        "synced_at": "2025-07-26 08:42:11.107881"
+      }
     }
   },
   "source_codes": {
@@ -4861,6 +4903,16 @@
       "SourceCode_1.5.8.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:41:00.658140"
+      }
+    },
+    "1.5.9-beta1": {
+      "SourceCode_1.5.9-beta1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:41:44.605800"
+      },
+      "SourceCode_1.5.9-beta1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:41:46.220399"
       }
     }
   }
