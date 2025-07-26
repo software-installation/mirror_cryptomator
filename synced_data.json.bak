@@ -591,6 +591,10 @@
     "98153300": {
       "tag_name": "1.7.4",
       "fully_synced_at": "2025-07-26 09:22:04.856783"
+    },
+    "98532241": {
+      "tag_name": "1.7.5",
+      "fully_synced_at": "2025-07-26 09:23:02.192627"
     }
   },
   "assets": {
@@ -7918,6 +7922,98 @@
         "updated_at": "2025-07-26T09:23:02+00:00",
         "synced_at": "2025-07-26 09:23:02.180574"
       }
+    },
+    "100779606": {
+      "Cryptomator-1.8.0-arm64.dmg_48212989": {
+        "name": "Cryptomator-1.8.0-arm64.dmg",
+        "size": 48212989,
+        "updated_at": "2025-07-26T09:23:19+00:00",
+        "synced_at": "2025-07-26 09:23:19.545731"
+      },
+      "Cryptomator-1.8.0-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.8.0-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:23:20+00:00",
+        "synced_at": "2025-07-26 09:23:21.028557"
+      },
+      "Cryptomator-1.8.0-x64.dmg_49212360": {
+        "name": "Cryptomator-1.8.0-x64.dmg",
+        "size": 49212360,
+        "updated_at": "2025-07-26T09:23:25+00:00",
+        "synced_at": "2025-07-26 09:23:25.999743"
+      },
+      "Cryptomator-1.8.0-x64.dmg.asc_833": {
+        "name": "Cryptomator-1.8.0-x64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:23:27+00:00",
+        "synced_at": "2025-07-26 09:23:27.491919"
+      },
+      "Cryptomator-1.8.0-x64.exe_50970856": {
+        "name": "Cryptomator-1.8.0-x64.exe",
+        "size": 50970856,
+        "updated_at": "2025-07-26T09:23:33+00:00",
+        "synced_at": "2025-07-26 09:23:33.314713"
+      },
+      "Cryptomator-1.8.0-x64.exe.asc_833": {
+        "name": "Cryptomator-1.8.0-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:23:34+00:00",
+        "synced_at": "2025-07-26 09:23:34.761156"
+      },
+      "Cryptomator-1.8.0-x64.msi_49733632": {
+        "name": "Cryptomator-1.8.0-x64.msi",
+        "size": 49733632,
+        "updated_at": "2025-07-26T09:23:39+00:00",
+        "synced_at": "2025-07-26 09:23:39.188742"
+      },
+      "Cryptomator-1.8.0-x64.msi.asc_833": {
+        "name": "Cryptomator-1.8.0-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:23:40+00:00",
+        "synced_at": "2025-07-26 09:23:40.655574"
+      },
+      "cryptomator-1.8.0-x86_64.AppImage_50988224": {
+        "name": "cryptomator-1.8.0-x86_64.AppImage",
+        "size": 50988224,
+        "updated_at": "2025-07-26T09:23:46+00:00",
+        "synced_at": "2025-07-26 09:23:46.262465"
+      },
+      "cryptomator-1.8.0-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.8.0-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:23:47+00:00",
+        "synced_at": "2025-07-26 09:23:47.664936"
+      },
+      "cryptomator-1.8.0-x86_64.AppImage.zsync_174516": {
+        "name": "cryptomator-1.8.0-x86_64.AppImage.zsync",
+        "size": 174516,
+        "updated_at": "2025-07-26T09:23:48+00:00",
+        "synced_at": "2025-07-26 09:23:49.142333"
+      },
+      "cryptomator-1.8.0-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.8.0-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:23:50+00:00",
+        "synced_at": "2025-07-26 09:23:50.589049"
+      },
+      "cryptomator-1.8.0.tar.gz.asc_833": {
+        "name": "cryptomator-1.8.0.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:23:52+00:00",
+        "synced_at": "2025-07-26 09:23:52.164429"
+      },
+      "cryptomator_1.8.0-0ppa1_amd64.deb_55715036": {
+        "name": "cryptomator_1.8.0-0ppa1_amd64.deb",
+        "size": 55715036,
+        "updated_at": "2025-07-26T09:23:57+00:00",
+        "synced_at": "2025-07-26 09:23:57.371057"
+      },
+      "cryptomator_1.8.0-0ppa1_amd64.deb.asc_833": {
+        "name": "cryptomator_1.8.0-0ppa1_amd64.deb.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:23:58+00:00",
+        "synced_at": "2025-07-26 09:23:58.789104"
+      }
     }
   },
   "source_codes": {
@@ -9409,6 +9505,16 @@
       "SourceCode_1.7.5.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:22:17.598130"
+      }
+    },
+    "1.8.0": {
+      "SourceCode_1.8.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:23:12.463929"
+      },
+      "SourceCode_1.8.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:23:14.620542"
       }
     }
   }
