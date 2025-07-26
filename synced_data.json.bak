@@ -343,6 +343,10 @@
     "25566312": {
       "tag_name": "1.5.0",
       "fully_synced_at": "2025-07-26 08:36:02.763429"
+    },
+    "25720636": {
+      "tag_name": "1.5.1",
+      "fully_synced_at": "2025-07-26 08:36:42.461048"
     }
   },
   "assets": {
@@ -3490,6 +3494,62 @@
         "updated_at": "2025-07-26T08:36:42+00:00",
         "synced_at": "2025-07-26 08:36:42.455150"
       }
+    },
+    "26009283": {
+      "buildkit-linux.zip_24989190": {
+        "name": "buildkit-linux.zip",
+        "size": 24989190,
+        "updated_at": "2025-07-26T08:36:55+00:00",
+        "synced_at": "2025-07-26 08:36:55.573860"
+      },
+      "buildkit-mac.zip_24497192": {
+        "name": "buildkit-mac.zip",
+        "size": 24497192,
+        "updated_at": "2025-07-26T08:36:58+00:00",
+        "synced_at": "2025-07-26 08:36:58.451777"
+      },
+      "buildkit-win.zip_25640300": {
+        "name": "buildkit-win.zip",
+        "size": 25640300,
+        "updated_at": "2025-07-26T08:37:01+00:00",
+        "synced_at": "2025-07-26 08:37:01.595944"
+      },
+      "Cryptomator-1.5.2-x64.exe_62917328": {
+        "name": "Cryptomator-1.5.2-x64.exe",
+        "size": 62917328,
+        "updated_at": "2025-07-26T08:37:07+00:00",
+        "synced_at": "2025-07-26 08:37:07.216661"
+      },
+      "Cryptomator-1.5.2-x64.exe.asc_821": {
+        "name": "Cryptomator-1.5.2-x64.exe.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:37:08+00:00",
+        "synced_at": "2025-07-26 08:37:08.637127"
+      },
+      "cryptomator-1.5.2-x86_64.AppImage_53247976": {
+        "name": "cryptomator-1.5.2-x86_64.AppImage",
+        "size": 53247976,
+        "updated_at": "2025-07-26T08:37:13+00:00",
+        "synced_at": "2025-07-26 08:37:13.387542"
+      },
+      "cryptomator-1.5.2-x86_64.AppImage.asc_821": {
+        "name": "cryptomator-1.5.2-x86_64.AppImage.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:37:14+00:00",
+        "synced_at": "2025-07-26 08:37:14.918413"
+      },
+      "Cryptomator-1.5.2.dmg_49463484": {
+        "name": "Cryptomator-1.5.2.dmg",
+        "size": 49463484,
+        "updated_at": "2025-07-26T08:37:20+00:00",
+        "synced_at": "2025-07-26 08:37:20.328267"
+      },
+      "Cryptomator-1.5.2.dmg.asc_821": {
+        "name": "Cryptomator-1.5.2.dmg.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:37:21+00:00",
+        "synced_at": "2025-07-26 08:37:21.806530"
+      }
     }
   },
   "source_codes": {
@@ -4361,6 +4421,16 @@
       "SourceCode_1.5.1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:36:12.931867"
+      }
+    },
+    "1.5.2": {
+      "SourceCode_1.5.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:36:50.376904"
+      },
+      "SourceCode_1.5.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:36:51.986097"
       }
     }
   }
