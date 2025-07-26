@@ -251,6 +251,10 @@
     "16724961": {
       "tag_name": "1.4.7",
       "fully_synced_at": "2025-07-26 08:23:25.985433"
+    },
+    "16946904": {
+      "tag_name": "1.4.8",
+      "fully_synced_at": "2025-07-26 08:23:55.955728"
     }
   },
   "assets": {
@@ -2561,6 +2565,44 @@
         "updated_at": "2025-07-26T08:23:55+00:00",
         "synced_at": "2025-07-26 08:23:55.951307"
       }
+    },
+    "17020258": {
+      "Cryptomator-1.4.9-x64.exe_55742656": {
+        "name": "Cryptomator-1.4.9-x64.exe",
+        "size": 55742656,
+        "updated_at": "2025-07-26T08:24:10+00:00",
+        "synced_at": "2025-07-26 08:24:10.751282"
+      },
+      "Cryptomator-1.4.9-x64.exe.asc_821": {
+        "name": "Cryptomator-1.4.9-x64.exe.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:24:12+00:00",
+        "synced_at": "2025-07-26 08:24:12.173164"
+      },
+      "cryptomator-1.4.9-x86_64.AppImage_54082552": {
+        "name": "cryptomator-1.4.9-x86_64.AppImage",
+        "size": 54082552,
+        "updated_at": "2025-07-26T08:24:17+00:00",
+        "synced_at": "2025-07-26 08:24:17.370137"
+      },
+      "cryptomator-1.4.9-x86_64.AppImage.asc_821": {
+        "name": "cryptomator-1.4.9-x86_64.AppImage.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:24:18+00:00",
+        "synced_at": "2025-07-26 08:24:18.910022"
+      },
+      "Cryptomator-1.4.9.dmg_49841732": {
+        "name": "Cryptomator-1.4.9.dmg",
+        "size": 49841732,
+        "updated_at": "2025-07-26T08:24:24+00:00",
+        "synced_at": "2025-07-26 08:24:24.227022"
+      },
+      "Cryptomator-1.4.9.dmg.asc_821": {
+        "name": "Cryptomator-1.4.9.dmg.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:24:25+00:00",
+        "synced_at": "2025-07-26 08:24:25.673244"
+      }
     }
   },
   "source_codes": {
@@ -3202,6 +3244,16 @@
       "SourceCode_1.4.8.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:23:35.616038"
+      }
+    },
+    "1.4.9": {
+      "SourceCode_1.4.9.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:24:03.867808"
+      },
+      "SourceCode_1.4.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:24:05.364203"
       }
     }
   }
