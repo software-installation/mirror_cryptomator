@@ -171,6 +171,10 @@
     "6814335": {
       "tag_name": "1.2.5",
       "fully_synced_at": "2025-07-26 08:13:27.034438"
+    },
+    "6861442": {
+      "tag_name": "1.3.0-rc8",
+      "fully_synced_at": "2025-07-26 08:13:41.215562"
     }
   },
   "assets": {
@@ -1641,6 +1645,20 @@
         "updated_at": "2025-07-26T08:13:26+00:00",
         "synced_at": "2025-07-26 08:13:27.028897"
       }
+    },
+    "6861442": {
+      "antkit.tar.gz_8807488": {
+        "name": "antkit.tar.gz",
+        "size": 8807488,
+        "updated_at": "2025-07-26T08:13:38+00:00",
+        "synced_at": "2025-07-26 08:13:38.898572"
+      },
+      "Cryptomator-1.3.0-rc8.jar_9626214": {
+        "name": "Cryptomator-1.3.0-rc8.jar",
+        "size": 9626214,
+        "updated_at": "2025-07-26T08:13:41+00:00",
+        "synced_at": "2025-07-26 08:13:41.211001"
+      }
     }
   },
   "source_codes": {
@@ -2072,6 +2090,16 @@
       "SourceCode_1.2.5.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:12:49.204189"
+      }
+    },
+    "1.3.0-rc8": {
+      "SourceCode_1.3.0-rc8.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:13:34.497567"
+      },
+      "SourceCode_1.3.0-rc8.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:13:36.153371"
       }
     }
   }
