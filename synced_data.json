@@ -211,6 +211,10 @@
     "11896058": {
       "tag_name": "1.4.0-beta2",
       "fully_synced_at": "2025-07-26 08:19:02.931604"
+    },
+    "13426134": {
+      "tag_name": "1.4.0-beta3",
+      "fully_synced_at": "2025-07-26 08:19:15.562637"
     }
   },
   "assets": {
@@ -2127,6 +2131,14 @@
         "updated_at": "2025-07-26T08:19:02+00:00",
         "synced_at": "2025-07-26 08:19:02.924835"
       }
+    },
+    "13426134": {
+      "Cryptomator-1.4.0-beta3.jar_14277233": {
+        "name": "Cryptomator-1.4.0-beta3.jar",
+        "size": 14277233,
+        "updated_at": "2025-07-26T08:19:15+00:00",
+        "synced_at": "2025-07-26 08:19:15.556469"
+      }
     }
   },
   "source_codes": {
@@ -2658,6 +2670,16 @@
       "SourceCode_1.4.0-beta2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:18:55.589089"
+      }
+    },
+    "1.4.0-beta3": {
+      "SourceCode_1.4.0-beta3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:19:10.513885"
+      },
+      "SourceCode_1.4.0-beta3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:19:12.194250"
       }
     }
   }
