@@ -127,6 +127,10 @@
     "4625134": {
       "tag_name": "1.2.1",
       "fully_synced_at": "2025-07-26 08:08:17.593452"
+    },
+    "4643304": {
+      "tag_name": "1.2.2",
+      "fully_synced_at": "2025-07-26 08:09:27.374702"
     }
   },
   "assets": {
@@ -1313,6 +1317,104 @@
         "updated_at": "2025-07-26T08:09:27+00:00",
         "synced_at": "2025-07-26 08:09:27.369833"
       }
+    },
+    "4788752": {
+      "antkit.tar.gz_11697139": {
+        "name": "antkit.tar.gz",
+        "size": 11697139,
+        "updated_at": "2025-07-26T08:09:38+00:00",
+        "synced_at": "2025-07-26 08:09:38.706775"
+      },
+      "cryptomator-1.2.3-amd64.deb_84534750": {
+        "name": "cryptomator-1.2.3-amd64.deb",
+        "size": 84534750,
+        "updated_at": "2025-07-26T08:09:46+00:00",
+        "synced_at": "2025-07-26 08:09:46.298197"
+      },
+      "cryptomator-1.2.3-amd64.deb.asc_911": {
+        "name": "cryptomator-1.2.3-amd64.deb.asc",
+        "size": 911,
+        "updated_at": "2025-07-26T08:09:47+00:00",
+        "synced_at": "2025-07-26 08:09:47.746315"
+      },
+      "cryptomator-1.2.3-amd64.rpm_68075100": {
+        "name": "cryptomator-1.2.3-amd64.rpm",
+        "size": 68075100,
+        "updated_at": "2025-07-26T08:09:54+00:00",
+        "synced_at": "2025-07-26 08:09:54.561812"
+      },
+      "cryptomator-1.2.3-amd64.rpm.asc_870": {
+        "name": "cryptomator-1.2.3-amd64.rpm.asc",
+        "size": 870,
+        "updated_at": "2025-07-26T08:09:55+00:00",
+        "synced_at": "2025-07-26 08:09:56.039000"
+      },
+      "cryptomator-1.2.3-i386.deb_87158490": {
+        "name": "cryptomator-1.2.3-i386.deb",
+        "size": 87158490,
+        "updated_at": "2025-07-26T08:10:02+00:00",
+        "synced_at": "2025-07-26 08:10:03.115757"
+      },
+      "cryptomator-1.2.3-i386.deb.asc_911": {
+        "name": "cryptomator-1.2.3-i386.deb.asc",
+        "size": 911,
+        "updated_at": "2025-07-26T08:10:04+00:00",
+        "synced_at": "2025-07-26 08:10:04.625600"
+      },
+      "cryptomator-1.2.3-i386.rpm_70589856": {
+        "name": "cryptomator-1.2.3-i386.rpm",
+        "size": 70589856,
+        "updated_at": "2025-07-26T08:10:11+00:00",
+        "synced_at": "2025-07-26 08:10:11.257426"
+      },
+      "cryptomator-1.2.3-i386.rpm.asc_821": {
+        "name": "cryptomator-1.2.3-i386.rpm.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:10:12+00:00",
+        "synced_at": "2025-07-26 08:10:12.694009"
+      },
+      "Cryptomator-1.2.3-x64.exe_56279368": {
+        "name": "Cryptomator-1.2.3-x64.exe",
+        "size": 56279368,
+        "updated_at": "2025-07-26T08:10:18+00:00",
+        "synced_at": "2025-07-26 08:10:18.167288"
+      },
+      "Cryptomator-1.2.3-x64.exe.asc_821": {
+        "name": "Cryptomator-1.2.3-x64.exe.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:10:19+00:00",
+        "synced_at": "2025-07-26 08:10:19.639212"
+      },
+      "Cryptomator-1.2.3-x86.exe_54830776": {
+        "name": "Cryptomator-1.2.3-x86.exe",
+        "size": 54830776,
+        "updated_at": "2025-07-26T08:10:24+00:00",
+        "synced_at": "2025-07-26 08:10:24.969678"
+      },
+      "Cryptomator-1.2.3-x86.exe.asc_821": {
+        "name": "Cryptomator-1.2.3-x86.exe.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:10:26+00:00",
+        "synced_at": "2025-07-26 08:10:26.445012"
+      },
+      "Cryptomator-1.2.3.dmg_80361901": {
+        "name": "Cryptomator-1.2.3.dmg",
+        "size": 80361901,
+        "updated_at": "2025-07-26T08:10:33+00:00",
+        "synced_at": "2025-07-26 08:10:34.040895"
+      },
+      "Cryptomator-1.2.3.dmg.asc_821": {
+        "name": "Cryptomator-1.2.3.dmg.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:10:35+00:00",
+        "synced_at": "2025-07-26 08:10:35.542775"
+      },
+      "Cryptomator-1.2.3.jar_12669911": {
+        "name": "Cryptomator-1.2.3.jar",
+        "size": 12669911,
+        "updated_at": "2025-07-26T08:10:37+00:00",
+        "synced_at": "2025-07-26 08:10:37.891854"
+      }
     }
   },
   "source_codes": {
@@ -1644,6 +1746,16 @@
       "SourceCode_1.2.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:08:26.871951"
+      }
+    },
+    "1.2.3": {
+      "SourceCode_1.2.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:09:34.577276"
+      },
+      "SourceCode_1.2.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:09:36.106902"
       }
     }
   }
