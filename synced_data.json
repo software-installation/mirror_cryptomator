@@ -299,6 +299,10 @@
     "19361973": {
       "tag_name": "1.4.15",
       "fully_synced_at": "2025-07-26 08:29:12.557500"
+    },
+    "20090231": {
+      "tag_name": "1.4.16",
+      "fully_synced_at": "2025-07-26 08:29:33.357396"
     }
   },
   "assets": {
@@ -2978,6 +2982,26 @@
         "updated_at": "2025-07-26T08:29:12+00:00",
         "synced_at": "2025-07-26 08:29:12.552427"
       }
+    },
+    "20090231": {
+      "buildkit-mac.zip_20468155": {
+        "name": "buildkit-mac.zip",
+        "size": 20468155,
+        "updated_at": "2025-07-26T08:29:25+00:00",
+        "synced_at": "2025-07-26 08:29:25.897675"
+      },
+      "Cryptomator-1.4.16.dmg_50001940": {
+        "name": "Cryptomator-1.4.16.dmg",
+        "size": 50001940,
+        "updated_at": "2025-07-26T08:29:31+00:00",
+        "synced_at": "2025-07-26 08:29:31.909480"
+      },
+      "Cryptomator-1.4.16.dmg.asc_821": {
+        "name": "Cryptomator-1.4.16.dmg.asc",
+        "size": 821,
+        "updated_at": "2025-07-26T08:29:33+00:00",
+        "synced_at": "2025-07-26 08:29:33.352372"
+      }
     }
   },
   "source_codes": {
@@ -3729,6 +3753,16 @@
       "SourceCode_1.4.15.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:28:41.216586"
+      }
+    },
+    "1.4.16": {
+      "SourceCode_1.4.16.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:29:20.680014"
+      },
+      "SourceCode_1.4.16.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:29:22.446914"
       }
     }
   }
