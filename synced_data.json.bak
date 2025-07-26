@@ -619,6 +619,10 @@
     "113339404": {
       "tag_name": "1.9.2",
       "fully_synced_at": "2025-07-26 09:28:15.059672"
+    },
+    "115428008": {
+      "tag_name": "1.9.3",
+      "fully_synced_at": "2025-07-26 09:29:13.270317"
     }
   },
   "assets": {
@@ -8518,6 +8522,98 @@
         "updated_at": "2025-07-26T09:29:13+00:00",
         "synced_at": "2025-07-26 09:29:13.257364"
       }
+    },
+    "115814312": {
+      "Cryptomator-1.10.0-beta2-arm64.dmg_48959121": {
+        "name": "Cryptomator-1.10.0-beta2-arm64.dmg",
+        "size": 48959121,
+        "updated_at": "2025-07-26T09:29:32+00:00",
+        "synced_at": "2025-07-26 09:29:32.408875"
+      },
+      "Cryptomator-1.10.0-beta2-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.10.0-beta2-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:29:33+00:00",
+        "synced_at": "2025-07-26 09:29:33.914188"
+      },
+      "Cryptomator-1.10.0-beta2-x64.dmg_50308870": {
+        "name": "Cryptomator-1.10.0-beta2-x64.dmg",
+        "size": 50308870,
+        "updated_at": "2025-07-26T09:29:38+00:00",
+        "synced_at": "2025-07-26 09:29:38.897612"
+      },
+      "Cryptomator-1.10.0-beta2-x64.dmg.asc_833": {
+        "name": "Cryptomator-1.10.0-beta2-x64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:29:40+00:00",
+        "synced_at": "2025-07-26 09:29:40.361369"
+      },
+      "Cryptomator-1.10.0-beta2-x64.exe_51761744": {
+        "name": "Cryptomator-1.10.0-beta2-x64.exe",
+        "size": 51761744,
+        "updated_at": "2025-07-26T09:29:45+00:00",
+        "synced_at": "2025-07-26 09:29:45.471552"
+      },
+      "Cryptomator-1.10.0-beta2-x64.exe.asc_833": {
+        "name": "Cryptomator-1.10.0-beta2-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:29:46+00:00",
+        "synced_at": "2025-07-26 09:29:46.923058"
+      },
+      "Cryptomator-1.10.0-beta2-x64.msi_50704384": {
+        "name": "Cryptomator-1.10.0-beta2-x64.msi",
+        "size": 50704384,
+        "updated_at": "2025-07-26T09:29:51+00:00",
+        "synced_at": "2025-07-26 09:29:51.714130"
+      },
+      "Cryptomator-1.10.0-beta2-x64.msi.asc_833": {
+        "name": "Cryptomator-1.10.0-beta2-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:29:53+00:00",
+        "synced_at": "2025-07-26 09:29:53.152338"
+      },
+      "cryptomator-1.10.0-beta2-x86_64.AppImage_51889344": {
+        "name": "cryptomator-1.10.0-beta2-x86_64.AppImage",
+        "size": 51889344,
+        "updated_at": "2025-07-26T09:29:57+00:00",
+        "synced_at": "2025-07-26 09:29:58.151004"
+      },
+      "cryptomator-1.10.0-beta2-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.10.0-beta2-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:29:59+00:00",
+        "synced_at": "2025-07-26 09:29:59.608280"
+      },
+      "cryptomator-1.10.0-beta2-x86_64.AppImage.zsync_177610": {
+        "name": "cryptomator-1.10.0-beta2-x86_64.AppImage.zsync",
+        "size": 177610,
+        "updated_at": "2025-07-26T09:30:01+00:00",
+        "synced_at": "2025-07-26 09:30:01.304417"
+      },
+      "cryptomator-1.10.0-beta2-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.10.0-beta2-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:30:02+00:00",
+        "synced_at": "2025-07-26 09:30:02.926902"
+      },
+      "cryptomator-1.10.0-beta2.tar.gz.asc_833": {
+        "name": "cryptomator-1.10.0-beta2.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:30:04+00:00",
+        "synced_at": "2025-07-26 09:30:04.478093"
+      },
+      "cryptomator_1.9.3+1.10.0.beta2-0ppa1_amd64.deb_56452216": {
+        "name": "cryptomator_1.9.3+1.10.0.beta2-0ppa1_amd64.deb",
+        "size": 56452216,
+        "updated_at": "2025-07-26T09:30:09+00:00",
+        "synced_at": "2025-07-26 09:30:09.626089"
+      },
+      "cryptomator_1.9.3+1.10.0.beta2-0ppa1_amd64.deb.asc_833": {
+        "name": "cryptomator_1.9.3+1.10.0.beta2-0ppa1_amd64.deb.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:30:11+00:00",
+        "synced_at": "2025-07-26 09:30:11.190466"
+      }
     }
   },
   "source_codes": {
@@ -10079,6 +10175,16 @@
       "SourceCode_1.9.3.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:28:28.501825"
+      }
+    },
+    "1.10.0-beta2": {
+      "SourceCode_1.10.0-beta2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:29:24.626088"
+      },
+      "SourceCode_1.10.0-beta2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:29:26.828081"
       }
     }
   }
