@@ -615,6 +615,10 @@
     "113320180": {
       "tag_name": "1.10.0-beta1",
       "fully_synced_at": "2025-07-26 09:27:47.024075"
+    },
+    "113339404": {
+      "tag_name": "1.9.2",
+      "fully_synced_at": "2025-07-26 09:28:15.059672"
     }
   },
   "assets": {
@@ -8390,6 +8394,38 @@
         "updated_at": "2025-07-26T09:27:46+00:00",
         "synced_at": "2025-07-26 09:27:47.011292"
       }
+    },
+    "113339404": {
+      "Cryptomator-1.9.2-x64.exe_51647400": {
+        "name": "Cryptomator-1.9.2-x64.exe",
+        "size": 51647400,
+        "updated_at": "2025-07-26T09:28:05+00:00",
+        "synced_at": "2025-07-26 09:28:05.434564"
+      },
+      "Cryptomator-1.9.2-x64.exe.asc_833": {
+        "name": "Cryptomator-1.9.2-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:28:06+00:00",
+        "synced_at": "2025-07-26 09:28:06.882985"
+      },
+      "Cryptomator-1.9.2-x64.msi_50585600": {
+        "name": "Cryptomator-1.9.2-x64.msi",
+        "size": 50585600,
+        "updated_at": "2025-07-26T09:28:11+00:00",
+        "synced_at": "2025-07-26 09:28:12.169090"
+      },
+      "Cryptomator-1.9.2-x64.msi.asc_833": {
+        "name": "Cryptomator-1.9.2-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:28:13+00:00",
+        "synced_at": "2025-07-26 09:28:13.562475"
+      },
+      "cryptomator-1.9.2.tar.gz.asc_833": {
+        "name": "cryptomator-1.9.2.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:28:14+00:00",
+        "synced_at": "2025-07-26 09:28:15.047007"
+      }
     }
   },
   "source_codes": {
@@ -9931,6 +9967,16 @@
       "SourceCode_1.10.0-beta1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:27:05.037925"
+      }
+    },
+    "1.9.2": {
+      "SourceCode_1.9.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:27:57.919154"
+      },
+      "SourceCode_1.9.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:28:00.266828"
       }
     }
   }
