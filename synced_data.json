@@ -755,6 +755,10 @@
     "215735207": {
       "tag_name": "1.16.1",
       "fully_synced_at": "2025-07-26 10:02:46.016757"
+    },
+    "218739159": {
+      "tag_name": "1.16.2",
+      "fully_synced_at": "2025-07-26 10:03:16.070181"
     }
   },
   "assets": {
@@ -11900,6 +11904,38 @@
         "updated_at": "2025-07-26T10:02:45+00:00",
         "synced_at": "2025-07-26 10:02:45.999179"
       }
+    },
+    "218739159": {
+      "Cryptomator-1.16.2-arm64.dmg_56207534": {
+        "name": "Cryptomator-1.16.2-arm64.dmg",
+        "size": 56207534,
+        "updated_at": "2025-07-26T10:03:06+00:00",
+        "synced_at": "2025-07-26 10:03:06.454949"
+      },
+      "Cryptomator-1.16.2-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.16.2-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T10:03:07+00:00",
+        "synced_at": "2025-07-26 10:03:07.931244"
+      },
+      "Cryptomator-1.16.2-x64.dmg_57506361": {
+        "name": "Cryptomator-1.16.2-x64.dmg",
+        "size": 57506361,
+        "updated_at": "2025-07-26T10:03:12+00:00",
+        "synced_at": "2025-07-26 10:03:12.977682"
+      },
+      "Cryptomator-1.16.2-x64.dmg.asc_833": {
+        "name": "Cryptomator-1.16.2-x64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T10:03:14+00:00",
+        "synced_at": "2025-07-26 10:03:14.414117"
+      },
+      "cryptomator-1.16.2.tar.gz.asc_833": {
+        "name": "cryptomator-1.16.2.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T10:03:15+00:00",
+        "synced_at": "2025-07-26 10:03:16.052681"
+      }
     }
   },
   "source_codes": {
@@ -13791,6 +13827,16 @@
       "SourceCode_1.16.1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 10:02:28.789492"
+      }
+    },
+    "1.16.2": {
+      "SourceCode_1.16.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:02:58.603266"
+      },
+      "SourceCode_1.16.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 10:03:00.727794"
       }
     }
   }
