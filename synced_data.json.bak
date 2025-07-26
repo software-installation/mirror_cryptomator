@@ -323,6 +323,10 @@
     "22717407": {
       "tag_name": "1.5.0-beta2",
       "fully_synced_at": "2025-07-26 08:32:45.918603"
+    },
+    "24030554": {
+      "tag_name": "1.5.0-beta3",
+      "fully_synced_at": "2025-07-26 08:33:25.010256"
     }
   },
   "assets": {
@@ -3244,6 +3248,44 @@
         "updated_at": "2025-07-26T08:33:24+00:00",
         "synced_at": "2025-07-26 08:33:24.994008"
       }
+    },
+    "24466258": {
+      "buildkit-linux.zip_25961920": {
+        "name": "buildkit-linux.zip",
+        "size": 25961920,
+        "updated_at": "2025-07-26T08:33:39+00:00",
+        "synced_at": "2025-07-26 08:33:39.291483"
+      },
+      "buildkit-mac.zip_25469922": {
+        "name": "buildkit-mac.zip",
+        "size": 25469922,
+        "updated_at": "2025-07-26T08:33:42+00:00",
+        "synced_at": "2025-07-26 08:33:42.550130"
+      },
+      "buildkit-win.zip_26613030": {
+        "name": "buildkit-win.zip",
+        "size": 26613030,
+        "updated_at": "2025-07-26T08:33:45+00:00",
+        "synced_at": "2025-07-26 08:33:45.964559"
+      },
+      "Cryptomator-1.5.0-rc1-x64.exe_76399096": {
+        "name": "Cryptomator-1.5.0-rc1-x64.exe",
+        "size": 76399096,
+        "updated_at": "2025-07-26T08:33:53+00:00",
+        "synced_at": "2025-07-26 08:33:53.416145"
+      },
+      "cryptomator-1.5.0-rc1-x86_64.AppImage_60407784": {
+        "name": "cryptomator-1.5.0-rc1-x86_64.AppImage",
+        "size": 60407784,
+        "updated_at": "2025-07-26T08:33:58+00:00",
+        "synced_at": "2025-07-26 08:33:59.109396"
+      },
+      "Cryptomator-1.5.0-rc1.dmg_57640307": {
+        "name": "Cryptomator-1.5.0-rc1.dmg",
+        "size": 57640307,
+        "updated_at": "2025-07-26T08:34:04+00:00",
+        "synced_at": "2025-07-26 08:34:04.771576"
+      }
     }
   },
   "source_codes": {
@@ -4065,6 +4107,16 @@
       "SourceCode_1.5.0-beta3.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:32:56.061951"
+      }
+    },
+    "1.5.0-rc1": {
+      "SourceCode_1.5.0-rc1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:33:33.406508"
+      },
+      "SourceCode_1.5.0-rc1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:33:35.293886"
       }
     }
   }
