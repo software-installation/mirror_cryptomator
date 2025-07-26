@@ -539,6 +539,10 @@
     "83522443": {
       "tag_name": "1.7.0-alpha1",
       "fully_synced_at": "2025-07-26 09:09:52.230056"
+    },
+    "85158940": {
+      "tag_name": "1.6.16",
+      "fully_synced_at": "2025-07-26 09:10:48.615424"
     }
   },
   "assets": {
@@ -6682,6 +6686,86 @@
         "updated_at": "2025-07-26T09:10:48+00:00",
         "synced_at": "2025-07-26 09:10:48.605066"
       }
+    },
+    "85576286": {
+      "Cryptomator-1.7.0-alpha2-arm64.dmg_47954193": {
+        "name": "Cryptomator-1.7.0-alpha2-arm64.dmg",
+        "size": 47954193,
+        "updated_at": "2025-07-26T09:11:06+00:00",
+        "synced_at": "2025-07-26 09:11:06.183104"
+      },
+      "Cryptomator-1.7.0-alpha2-arm64.dmg.asc_833": {
+        "name": "Cryptomator-1.7.0-alpha2-arm64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:11:07+00:00",
+        "synced_at": "2025-07-26 09:11:07.597680"
+      },
+      "Cryptomator-1.7.0-alpha2-x64.dmg_48969805": {
+        "name": "Cryptomator-1.7.0-alpha2-x64.dmg",
+        "size": 48969805,
+        "updated_at": "2025-07-26T09:11:12+00:00",
+        "synced_at": "2025-07-26 09:11:12.625649"
+      },
+      "Cryptomator-1.7.0-alpha2-x64.dmg.asc_833": {
+        "name": "Cryptomator-1.7.0-alpha2-x64.dmg.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:11:13+00:00",
+        "synced_at": "2025-07-26 09:11:14.028844"
+      },
+      "Cryptomator-1.7.0-alpha2-x64.exe_49897136": {
+        "name": "Cryptomator-1.7.0-alpha2-x64.exe",
+        "size": 49897136,
+        "updated_at": "2025-07-26T09:11:18+00:00",
+        "synced_at": "2025-07-26 09:11:18.669359"
+      },
+      "Cryptomator-1.7.0-alpha2-x64.exe.asc_833": {
+        "name": "Cryptomator-1.7.0-alpha2-x64.exe.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:11:20+00:00",
+        "synced_at": "2025-07-26 09:11:20.185023"
+      },
+      "Cryptomator-1.7.0-alpha2-x64.msi_48644096": {
+        "name": "Cryptomator-1.7.0-alpha2-x64.msi",
+        "size": 48644096,
+        "updated_at": "2025-07-26T09:11:25+00:00",
+        "synced_at": "2025-07-26 09:11:25.344943"
+      },
+      "Cryptomator-1.7.0-alpha2-x64.msi.asc_833": {
+        "name": "Cryptomator-1.7.0-alpha2-x64.msi.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:11:26+00:00",
+        "synced_at": "2025-07-26 09:11:26.838653"
+      },
+      "cryptomator-1.7.0-alpha2-x86_64.AppImage_54285504": {
+        "name": "cryptomator-1.7.0-alpha2-x86_64.AppImage",
+        "size": 54285504,
+        "updated_at": "2025-07-26T09:11:32+00:00",
+        "synced_at": "2025-07-26 09:11:32.275885"
+      },
+      "cryptomator-1.7.0-alpha2-x86_64.AppImage.asc_833": {
+        "name": "cryptomator-1.7.0-alpha2-x86_64.AppImage.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:11:33+00:00",
+        "synced_at": "2025-07-26 09:11:33.706733"
+      },
+      "cryptomator-1.7.0-alpha2-x86_64.AppImage.zsync_185800": {
+        "name": "cryptomator-1.7.0-alpha2-x86_64.AppImage.zsync",
+        "size": 185800,
+        "updated_at": "2025-07-26T09:11:35+00:00",
+        "synced_at": "2025-07-26 09:11:35.220427"
+      },
+      "cryptomator-1.7.0-alpha2-x86_64.AppImage.zsync.asc_833": {
+        "name": "cryptomator-1.7.0-alpha2-x86_64.AppImage.zsync.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:11:36+00:00",
+        "synced_at": "2025-07-26 09:11:36.697688"
+      },
+      "cryptomator-1.7.0-alpha2.tar.gz.asc_833": {
+        "name": "cryptomator-1.7.0-alpha2.tar.gz.asc",
+        "size": 833,
+        "updated_at": "2025-07-26T09:11:38+00:00",
+        "synced_at": "2025-07-26 09:11:38.254260"
+      }
     }
   },
   "source_codes": {
@@ -8043,6 +8127,16 @@
       "SourceCode_1.6.16.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:10:04.909672"
+      }
+    },
+    "1.7.0-alpha2": {
+      "SourceCode_1.7.0-alpha2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:10:59.028860"
+      },
+      "SourceCode_1.7.0-alpha2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:11:01.036822"
       }
     }
   }
